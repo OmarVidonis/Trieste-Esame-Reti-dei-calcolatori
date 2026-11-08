@@ -1,0 +1,48 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+nav {
+  background-color: whitesmoke;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  padding: 10px;
+  color: darkslategray;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: gainsboro;
+}
+
+.contenuto {
+  padding: 20px;
+}
+
+h1 {
+  color: darkslategray;
+}
+
+img {
+  width: 400px;
+  margin: 10px;
+}
+
+#testo-curiosita {
+  background-color: whitesmoke;
+  padding: 10px;
+}
+
+#topbar {
+  background-color: darkslategray;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  font-size: xx-large;
+  text-align: center;
+}
